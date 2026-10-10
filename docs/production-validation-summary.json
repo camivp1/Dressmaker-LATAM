@@ -1,0 +1,73 @@
+{
+  "files_checked": [
+    "translation/UI_es-419.csv",
+    "translation/Tutorial_es-419.csv",
+    "translation/Content_es-419.csv",
+    "translation/Dialogue_es-419.csv"
+  ],
+  "tables": {
+    "UI": {
+      "rows": 208,
+      "translated": 208,
+      "empty_count": 0,
+      "ids_synced_with_extracted": true,
+      "keys_synced_with_extracted": true,
+      "missing_ids": [],
+      "additional_ids": [],
+      "duplicate_ids": [],
+      "duplicate_nonempty_keys": [],
+      "markup_issues": [],
+      "utf8_ok": true
+    },
+    "Tutorial": {
+      "rows": 71,
+      "translated": 71,
+      "empty_count": 0,
+      "ids_synced_with_extracted": true,
+      "keys_synced_with_extracted": true,
+      "missing_ids": [],
+      "additional_ids": [],
+      "duplicate_ids": [],
+      "duplicate_nonempty_keys": [],
+      "markup_issues": [],
+      "utf8_ok": true
+    },
+    "Content": {
+      "rows": 1930,
+      "translated": 1930,
+      "empty_count": 0,
+      "ids_synced_with_extracted": true,
+      "keys_synced_with_extracted": true,
+      "missing_ids": [],
+      "additional_ids": [],
+      "duplicate_ids": [],
+      "duplicate_nonempty_keys": [],
+      "markup_issues": [],
+      "utf8_ok": true
+    },
+    "Dialogue": {
+      "rows": 3677,
+      "translated": 3677,
+      "empty_count": 0,
+      "ids_synced_with_extracted": true,
+      "keys_synced_with_extracted": true,
+      "missing_ids": [],
+      "additional_ids": [],
+      "duplicate_ids": [],
+      "duplicate_nonempty_keys": [],
+      "markup_issues": [],
+      "utf8_ok": true
+    }
+  },
+  "global": {
+    "total_entries": 5886,
+    "translated_entries": 5886,
+    "empty_entries": 0,
+    "high": 5811,
+    "medium": 0,
+    "low": 75,
+    "human_pending": 0,
+    "internal_non_player_facing": 75,
+    "validation_issue_count": 0
+  }
+}

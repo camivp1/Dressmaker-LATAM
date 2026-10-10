@@ -1,0 +1,52 @@
+# Local/source game data
+input/
+source/
+extracted/
+reference/
+backup/
+work/
+translation/
+
+# Generated builds and installable packages
+build/
+dist/
+
+# Internal QA/review material
+/ATTRIBUTION.md
+docs/review/
+docs/qa/
+docs/runtime-*.md
+docs/reference-spanish-mod-analysis.md
+docs/extraction-summary.json
+docs/dialogue-unresolved-key-investigation.json
+docs/content-second-pass-summary.json
+docs/attribution.md
+docs/masterwin-content-comparison-audit.csv
+docs/validation-report.json
+
+# Third-party binary references and build outputs
+runtime/DressmakerLATAM/lib/BepInEx/*.dll
+runtime/DressmakerLATAM/lib/Game/*.dll
+runtime/DressmakerLATAM/bin/
+runtime/DressmakerLATAM/obj/
+
+# Logs and temporary files
+tools/extract_string_tables.py
+*.log
+*.tmp
+*.bak
+*.zip
+*.7z
+*.rar
+*.bundle
+*.pdb
+*.user
+*.suo
+.vs/
+
+# OS/editor noise
+Thumbs.db
+Desktop.ini
+.DS_Store
+.idea/
+.vscode/

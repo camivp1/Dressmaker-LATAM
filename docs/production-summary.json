@@ -1,0 +1,97 @@
+{
+  "generated_by": "final-definitive-audit",
+  "tables": {
+    "UI": {
+      "total": 208,
+      "translated": 208,
+      "empty": 0,
+      "ids_synced_with_extracted": true,
+      "keys_synced_with_extracted": true,
+      "missing_ids": [],
+      "additional_ids": [],
+      "duplicate_ids": [],
+      "duplicate_nonempty_keys": [],
+      "utf8_ok": true,
+      "sha256": "d2660a368f543db7d3fb85393a0adcd6cb3db89bc8e8dac021dcbe96f89ccebb",
+      "high": 208,
+      "medium": 0,
+      "low": 0,
+      "internal_non_player_facing": 0,
+      "human_pending": 0
+    },
+    "Tutorial": {
+      "total": 71,
+      "translated": 71,
+      "empty": 0,
+      "ids_synced_with_extracted": true,
+      "keys_synced_with_extracted": true,
+      "missing_ids": [],
+      "additional_ids": [],
+      "duplicate_ids": [],
+      "duplicate_nonempty_keys": [],
+      "utf8_ok": true,
+      "sha256": "ef2267d2ff1e6511b8ba4a60725225714146bbd2b37d108bf6e74f096d993acb",
+      "high": 71,
+      "medium": 0,
+      "low": 0,
+      "internal_non_player_facing": 0,
+      "human_pending": 0
+    },
+    "Content": {
+      "total": 1930,
+      "translated": 1930,
+      "empty": 0,
+      "ids_synced_with_extracted": true,
+      "keys_synced_with_extracted": true,
+      "missing_ids": [],
+      "additional_ids": [],
+      "duplicate_ids": [],
+      "duplicate_nonempty_keys": [],
+      "utf8_ok": true,
+      "sha256": "ce49a24fb25dc5b33744fed145b5fe13db63da6e59a6a472c9eb8ed652c660f5",
+      "high": 1930,
+      "medium": 0,
+      "low": 0,
+      "internal_non_player_facing": 0,
+      "human_pending": 0
+    },
+    "Dialogue": {
+      "total": 3677,
+      "translated": 3677,
+      "empty": 0,
+      "ids_synced_with_extracted": true,
+      "keys_synced_with_extracted": true,
+      "missing_ids": [],
+      "additional_ids": [],
+      "duplicate_ids": [],
+      "duplicate_nonempty_keys": [],
+      "utf8_ok": true,
+      "sha256": "ab71663bd3db07aed5b785f67dea7f29e26774293dac7431cfb92d777fd866b6",
+      "high": 3602,
+      "medium": 0,
+      "low": 75,
+      "internal_non_player_facing": 75,
+      "human_pending": 0,
+      "review_rows": 75,
+      "review_confidence": {
+        "low": 75
+      }
+    }
+  },
+  "global": {
+    "total_entries": 5886,
+    "translated_entries": 5886,
+    "empty_entries": 0,
+    "high": 5811,
+    "medium": 0,
+    "low": 75,
+    "human_pending": 0,
+    "internal_non_player_facing": 75,
+    "validation_issue_count": 0
+  },
+  "notes": [
+    "Confidence for UI/Tutorial/Content is based on closed review queues and approved production state.",
+    "Dialogue low entries are internal/non-player-facing only.",
+    "Runtime CSV generation was performed for QA after approved QA text fixes."
+  ]
+}

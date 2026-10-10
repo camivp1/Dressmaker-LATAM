@@ -1,0 +1,133 @@
+﻿english,es_419,context,notes,status
+dress,vestido,general,"Prenda principal del juego; usar vestido, no traje.",approved
+dressmaker,modista,oficio/personaje,Forma neutral para la persona que confecciona vestidos.,approved
+fabric,tela,costura,Usar tela/telas segun numero; evitar tejido salvo contexto tecnico.,approved
+pattern,patrón,costura,Pieza o diseño de patronaje; plural patrones.,approved
+draft pattern,trazar el patrón,sketchbook/accion,"Usar como accion/verbo. Si aparece como sustantivo, marcar para revision contextual.",approved
+sketchbook,cuaderno de bocetos,interfaz,Contenedor de diseños y muestras.,approved
+mannequin,maniquí,costura,Soporte para ajustar y montar prendas.,approved
+measurements,medidas,costura,Medidas corporales de la clienta.,approved
+bust,busto,medidas,Medida del busto.,approved
+waist,cintura,medidas,Medida de cintura.,approved
+hips,caderas,medidas,Medida de caderas.,approved
+haberdashery,cordonería,costura,Para productos/categoria usar cordoneria o articulos de cordoneria segun contexto.,approved
+grain line,sentido del hilo,corte de tela,Usar para la marca/flecha del patron que indica su orientacion sobre la tela. Ejemplos: alinear el sentido del hilo; sentido horizontal del hilo.,approved
+commission,encargo,clientes,Pedido de una clienta.,approved
+front desk,mostrador,tienda/interfaz,Zona de atencion; evitar escritorio si se refiere al local.,approved
+inventory,inventario,interfaz,Contenedor de objetos del jugador.,approved
+quality,calidad,requisitos,Atributo de resultado/prenda.,approved
+accessory,accesorio,vestuario,Elemento adicional de la prenda.,approved
+prestige,prestigio,progreso/recompensa,Atributo de reputacion o bonificacion.,approved
+off the rack dresses,vestidos listos para vender,tipo de vestido,Vestidos creados sin encargo especifico para vender por ingresos/prestigio.,approved
+non commissioned dress,vestido sin encargo,interfaz,Categoria/pestana para vestidos no asociados a una clienta concreta.,approved
+swatch,muestra,tela/interfaz,Muestra de tela en el cuaderno de bocetos.,approved
+trim,ribete,costura/accesorios,Elemento decorativo o ajuste de adorno en la prenda.,approved
+bias,sesgo,corte de tela,Orientacion diagonal de la tela/patron.,approved
+viewfinder,visor,foto/camara,Indicador de encuadre en modo foto.,approved
+save slot,espacio de guardado,sistema,Ranura/espacio para partida guardada.,approved
+visiting card,tarjeta de visita,social/interfaz,Tarjeta social del juego; mantener registro formal.,approved
+Knight of the Realm,Caballería del Reino,carta/nobiliario,Usar como nombre neutral de la distincion cuando el titulo se concede al Dressmaker/personaje jugador. Decision motivada por neutralidad de genero; revisar si aparece otro contexto gramatical.,approved
+Knighthood Ceremony,Ceremonia de Investidura,carta/nobiliario,Decision fijada para la ceremonia asociada a la distincion nobiliaria.,approved
+burlap,yute,telas/materiales,Material de sacos; decision LATAM aprobada para el juego.,approved
+corduroy,cotelé,telas/materiales,Tela acanalada; decision LATAM aprobada para el juego.,approved
+cotton,algodón,telas/materiales,Material textil.,approved
+lace,encaje,telas/materiales,Tela ornamental calada.,approved
+linen,lino,telas/materiales,Material textil.,approved
+sequins,lentejuelas,telas/materiales,Adorno brillante cosido o aplicado.,approved
+silk,seda,telas/materiales,Material textil.,approved
+brocade,brocado,telas/materiales,Tela con patron tejido en relieve.,approved
+taffeta,tafetán,telas/materiales,"Tela de seda u otro material, lisa y firme.",approved
+tweed,tweed,telas/materiales,Mantener tweed; termino ampliamente usado.,approved
+velvet,terciopelo,telas/materiales,Material textil de pelo corto.,approved
+wool,lana,telas/materiales,Material textil.,approved
+gingham,vichy,patrones textiles,Cuadros pequeños tipo gingham; usar vichy.,approved
+houndstooth,pata de gallo,patrones textiles,Patron textil clasico.,approved
+pinstripes,raya diplomática,patrones textiles,Rayas finas verticales.,approved
+plaid,cuadros,patrones textiles,Usar cuadros salvo contexto escoces/tartan especifico.,approved
+paisley,paisley,patrones textiles,Mantener paisley como nombre del motivo.,approved
+filigree,filigrana,patrones textiles,Motivo ornamental delicado.,approved
+burnout velvet,terciopelo devoré,telas/materiales,Tecnica de terciopelo con patron translúcido.,approved
+crushed velvet,terciopelo arrugado,telas/materiales,Usar como término LATAM comprensible; no usar terciopelo aplastado.,approved
+argyle,estampado de rombos,patrones textiles,Usar descripcion natural LATAM en nombres de tela.,approved
+Tasar moth,Tasar Moth,referencia natural/textil,Pendiente: comprobar visualmente si alude a seda tasar en general o a la polilla/diseño. No traducir ni eliminar Tasar automaticamente.,pending
+orchil,orchilla,color/material,Tinte/color historico; usar orchilla.,approved
+ichor,icor,color/estilo,Referencia mitologica/color; usar icor.,approved
+Cross Patty,cruz patada,patrones textiles,Termino aprobado para la cruz pattee/patty en nombres de estampados o bordados.,approved
+ditsy,motivos pequeños,patrones textiles,"Cuando describe pequeños motivos florales, traducir naturalmente segun el motivo; ejemplo: florecitas de margaritas.",approved
+Liberty,Liberty,patrones textiles,Mantener como nombre/estilo de estampado.,approved
+Chevron,espiga,patrones textiles,Patron en V/espiga; usar espiga.,approved
+Scheele's Green,verde de Scheele,color histórico,Color historico; mantener referencia a Scheele.,approved
+Violet-Crowned Woodnymph,Ninfa Coronada,referencia natural/textil,Nombre de ave real; en esta tela usar Seda Ninfa Coronada.,approved
+continuous print,estampado continuo,patrones textiles,Usar cuando Continuous describe un estampado continuo o repetido.,approved
+scallop,motivo de abanicos,Fabric/Cotton Embroidered Eclectic Scalloped Winter/Name,Decision contextual basada en evidencia visual del diseño: scallop se refiere a un motivo repetido tipo abanico/concha. No generalizar a otras entradas sin evidencia visual.,approved-contextual
+Rectangle Print,estampado de rectángulos,Fabric/CottonRectanglePattern Olive/Name,Decision contextual basada en evidencia visual: motivos rectangulares sobre base oliva. No reinterpretar como rombos porque el nombre original identifica Rectangle.,approved-contextual
+Scandi / Scandinavian,de estilo escandinavo,Fabric/CottonScandiFlowers/Name,"Decision contextual basada en evidencia visual: describe el estilo grafico/floral del estampado, no una variedad de flores. No generalizar sin revisar contexto.",approved-contextual
+Snow Petal,Pétalo de Nieve,Fabric/LaceSnowPetal/Name,Decision contextual basada en evidencia visual: funciona como nombre estilizado/comercial del diseño. Conservar capitalizacion; no usar descripcion literal con pétalos.,approved-contextual
+Savannah,Savannah,Fabric/LinenFloral/Name,Decision contextual basada en evidencia visual: funciona como nombre propio/estilizado del diseño. Mantener Savannah; no traducir como sabana.,approved-contextual
+Chameleon,tornasol,Fabric/SequinsChameleonPurpleGreen/Name,Decision contextual basada en evidencia visual y uso LATAM/Chile: describe efecto de cambio/reflejo de color en lentejuelas. No usar camaleon para esta entrada.,approved-contextual
+Bluebird,Bluebird,Fabric/SilkBlueBird/Name,"Decision contextual: no hay evidencia suficiente para interpretarlo como color, patron o referencia concreta traducible. Tratar como nombre estilizado/comercial del diseño.",approved-contextual
+Ice Floral,Ice Floral,Fabric/SilkContinuousRoseBrocade/Name,"Decision contextual: no hay evidencia suficiente para interpretarlo como termino textil, color o patron con traduccion clara al es-419. Tratar como nombre estilizado/comercial del diseño.",approved-contextual
+Desert Rain,Desert Rain,Fabric/SilkDesertRain/Name,Decision contextual basada en evidencia visual: funciona como nombre estilizado/comercial del diseño. No traducir literalmente.,approved-contextual
+Frosted,Frosted,Fabric/SilkFrostedBlush|Fabric/SilkFrostedClover|Fabric/SilkFrostedTeal,"Decision contextual basada en evidencia visual: Frosted funciona como nombre estilizado de coleccion en Frosted Blush/Clover/Teal. No traducir como escarchado, empolvado, mate o pastel sin evidencia adicional.",approved-contextual
+Rolling Mist,Rolling Mist,Fabric/SilkRollingMist/Name,"Decision contextual: no hay evidencia suficiente para interpretarlo como termino textil, color o patron con traduccion clara al es-419. Tratar como nombre estilizado/comercial del diseño.",approved-contextual
+Smokey Honey,Smokey Honey,Fabric/SilkTaffeta Smokey Honey/Name,Decision contextual basada en evidencia visual: tela lisa; Smokey Honey funciona como nombre estilizado/comercial del tono. No traducir literalmente.,approved-contextual
+Tasar Moth,Tasar Moth,Fabric/SilkTaffeta Tasar Moth/Name,"Decision contextual: no hay evidencia suficiente para determinar si es referencia zoologica o nombre estilizado/comercial. Por seguridad, mantener Tasar Moth sin traduccion literal.",approved-contextual
+Blossoming Blanc,Blossoming Blanc,Fabric/VelvetBlossomingBlancEmbellished/Name,Decision contextual basada en evidencia visual: funciona como nombre estilizado/comercial del diseño. No traducir.,approved-contextual
+Burnt Thistle,Burnt Thistle,Fabric/VelvetBurntThistle/Name,Decision contextual basada en evidencia visual: tela lisa; Burnt Thistle funciona como nombre estilizado/comercial del tono. No traducir literalmente.,approved-contextual
+Mushroom Cap,Mushroom Cap,Fabric/VelvetMushroomPolka/Name,Decision contextual basada en evidencia visual: funciona como nombre estilizado/comercial del tono o variante. No traducir literalmente; Polka se traduce como lunares.,approved-contextual
+Technicolour,Technicolour,Fabric/VelvetTechnicolourPurpleOrange|Fabric/VelvetTechnicolourYellowGreen,Decision contextual basada en evidencia visual: funciona como nombre estilizado de familia/coleccion de telas con acabado difuminado. Conservar grafia Technicolour; no usar tecnicolor.,approved-contextual
+Verdent,Verdent,Fabric/CottonDiamondPrint/Name,Decision contextual: no confirmar como color ni corregir a Verdant sin evidencia. Conservar grafia exacta Verdent como nombre estilizado de variante; Diamond se traduce como estampado de rombos.,approved-contextual
+Lupine Pink,rosa Lupine,Fabric/LinenGreyPink/Name,Decision contextual: Lupine Pink funciona como nombre especifico de un tono rosado apagado/grisaceo. Usar rosa para la familia cromatica y conservar Lupine como nombre estilizado del tono; no traducir literalmente como rosado lupino.,approved-contextual
+Rubia,Rubia,Fabric/SilkBlockPrintDiamond/Name,"Decision contextual: conservar Rubia como referencia plausible a la planta tintorea Rubia tinctorum, usada historicamente para tintes rojos textiles. No traducir como adjetivo de color de cabello ni sustituir por roja/carmesi.",approved-contextual
+Butterscotch,beige caramelo,Fabric/SilkButterscotch/Name,Decision contextual basada en evidencia visual: representa un tono beige calido/caramelo y suena natural en es-419. No usar caramelo de mantequilla ni mantener en ingles para esta entrada.,approved-contextual
+appliqué,aplique,accesorios/confeccion,Adorno aplicado sobre tela.,approved
+bow,lazo,accesorios,Accesorio o adorno con forma de lazo.,approved
+brooch,broche,accesorios,Joya o prendedor decorativo.,approved
+button,botón,accesorios/confeccion,Boton de prenda.,approved
+clasp,broche,accesorios/confeccion,Cierre o broche decorativo.,approved
+feather,pluma,accesorios,Adorno de pluma.,approved
+ribbon,cinta,accesorios/confeccion,Cinta decorativa.,approved
+tassel,borla,accesorios/confeccion,Adorno colgante de hilos.,approved
+trim,ribete,confeccion,Adorno o terminacion aplicada a una prenda.,approved
+bodice,cuerpo,patrones/prenda,Parte superior del vestido en nombres de patrones.,approved
+collar,cuello,patrones/prenda,Cuello de prenda.,approved
+skirt,falda,patrones/prenda,Parte inferior del vestido.,approved
+yoke,canesú,patrones/prenda,Pieza superior o panel de ajuste en prenda.,approved
+kaftan,caftán,prendas,Adaptacion es-419 para kaftan.,approved
+piping,vivo,confeccion,Cordón o ribete estrecho aplicado en costuras o bordes; decisión aprobada para accesorios de confección.,approved
+shank button,botón de vástago,accesorios/confeccion,Botón con vástago en vez de orificios visibles; decisión aprobada para botones.,approved
+gunmetal,Gunmetal,color/acabado,"Conservar como nombre de color/acabado; no traducir como pavonado, gris plomo, metal oscuro ni bronce de cañón.",approved
+saucer button,botón tipo platillo,accesorios/confeccion,Tipo/forma de botón; decisión aprobada para familia Saucer Button.,approved
+abalone,abalón,material/acabado,Mantener diferencia con Mother of Pearl; no sustituir por nácar en esta familia.,approved
+brass,latón,material/color,Material/acabado metálico en accesorios.,approved
+Pippa,Pippa,Accessory/Button Round C Brass|Accessory/Button Round C Red Copper,Decision contextual basada en evidencia visual: Pippa funciona como nombre estilizado/modelo de una familia de botones ornamentales. No traducir.,approved-contextual
+French Clasp,French Clasp,Accessory/Clasp,Decision contextual basada en evidencia visual: funciona como nombre estilizado/modelo de broche ornamental. Mantener Broche como categoria funcional del juego; no traducir como broche frances ni cierre frances.,approved-contextual
+Swallow Tail,Swallow Tail,Accessory/Feather A Purple,Decision contextual basada en evidencia visual: funciona como nombre estilizado/modelo del accesorio de pluma; no traducir literalmente como cola de golondrina.,approved-contextual
+Diamond Cut,corte rombo,Accessory/Jewel Square Amethyst|Accessory/Jewel Square JAde|Accessory/Jewel Square Sapphire,"Decision contextual basada en evidencia visual: en esta familia de gemas describe una forma/corte romboidal, no una talla diamante gemologica.",approved-contextual
+scoop neckline,escote en U,Bodice/Elevated Scoop Bodice|Bodice/Elevated Scoop Ruffle Bodice|Bodice/Princess Scoop Bodice|Bodice/Princess Scoop Ruffle Bodice,Decision contextual basada en evidencia visual: Scoop corresponde a escote redondeado en forma de U; Elevated Scoop es escote en U alto.,approved-contextual
+Begonia,Begonia,Bodice/Flared Bugonia Bodice|Bodice/Ruffle Bodice|Bodice/Ruffle Bodice Straight,Decision contextual basada en evidencia visual: Begonia funciona como nombre de familia/modelo de diseño. Usar source_text como autoridad aunque la key diga Bugonia; no modificar la key.,approved-contextual
+empire waist,cintura imperio,Bodice/Empire Princess Bodice|Skirt/Empire Princess Skirt,Decision contextual: describe la ubicacion alta de la cintura en silueta/construccion de prenda.,approved-contextual
+peplum,peplum,Skirt/Circle Peplum Skirt|Skirt/Petal Peplum Skirt,Decision contextual basada en evidencia visual: sobrefaldon/volante estructurado en cintura; mantener termino de moda peplum en estas entradas.,approved-contextual
+ruffle,vuelo,confeccion/prendas/accesorios,Decision general aprobada para es-419/Chile: vuelo/frunce decorativo de tela. Usar singular o plural segun prenda y contexto; no usar volante/volantes para ruffle.,approved
+pressed ruffle,vuelo prensado,Accessory/Trim Ruffle Pressed Blue Large|Accessory/Trim Ruffle Pressed Yellow,Decision contextual basada en evidencia visual: vuelo decorativo aplanado/prensado; no usar plisado ni volante planchado.,approved-contextual
+Golden Eye,Golden Eye,Accessory/Trim Golden Eye,Decision contextual basada en evidencia visual: funciona como nombre estilizado/modelo del ribete; no traducir literalmente.,approved-contextual
+Cute,Cute,etiqueta de estilo,Etiqueta estetica aprobada: mantener en ingles por uso amplio y natural en es-419; no usar Tierno/Lindo/Adorable.,approved
+Risqué,Provocador,etiqueta de estilo,"Etiqueta de estilo sensual/sugerente; no usar Sexy, Atrevido, Arriesgado ni Picante.",approved
+Aurora,Aurora,Bodice/Aurora Bodice,Decision contextual basada en evidencia visual: Aurora funciona como nombre de diseño/modelo del cuerpo. No traducir.,approved-contextual
+bustier,bustier,Bodice/Bustier Bodice,"Termino de moda aprobado para prenda estructurada con copas marcadas; no traducir como corse, corpiño ni sosten.",approved
+stays,cuerpo tipo corsé,Bodice/Front Lace Stay,Decision contextual: prenda historica estructurada antecedente del corse; evitar cotilla como texto visible. Front lace -> con lazada frontal.,approved-contextual
+kaftan wrap,cruzado estilo caftán,Bodice/Kaftan Wrap Bodice,Decision contextual basada en evidencia visual: construccion cruzada tipo wrap inspirada en caftan.,approved-contextual
+ruched,fruncido,Bodice/Ruched Sweetheart Bodice,Decision contextual basada en evidencia visual: tela fruncida; no usar drapeado en esta entrada.,approved-contextual
+sweetheart neckline,escote corazón,Bodice/Ruched Sweetheart Bodice,Escote con forma de corazón en prenda superior.,approved
+Sax,Sax,Bodice/Sax Bodice,Decision contextual: sin interpretacion tecnica segura; conservar como nombre estilizado/modelo del diseño.,approved-contextual
+keyhole,abertura en forma de lágrima,Bodice/Single Keyhole Bodice,Decision contextual basada en evidencia visual: abertura frontal unica bajo el escote; no usar escote lagrima en esta entrada.,approved-contextual
+crew neckline,escote redondo,Bodice/Split Crew Neck Bodice,Decision contextual: escote redondo/cerrado tipo crew.,approved-contextual
+split,abertura en V,Bodice/Split Crew Neck Bodice,Decision contextual basada en evidencia visual: abertura central en forma de V; no usar dividido.,approved-contextual
+upturned yoked,canesú en V,Bodice/V Yoked Bodice,Decision contextual basada en evidencia visual: canesu formado en V; no crear regla global upturned -> en V.,approved-contextual
+Waterfall,Waterfall,Bodice/Waterfall Bodice; future Waterfall Skirt,"Decision contextual basada en evidencia visual: funciona como nombre de familia/modelo de diseño. Para Waterfall Skirt, mantener Falda Waterfall cuando aparezca en su lote.",approved-contextual
+Peter Pan collar,cuello Peter Pan,Collar/Peter Pan Collar,Nombre establecido de cuello pequeño y redondeado.,approved
+upright frill collar,cuello con volante levantado,Collar/Rebecca Frill Collar,Decision contextual basada en evidencia visual: volante levantado/erguido alrededor del cuello. Source_text es autoridad aunque la key incluya Rebecca.,approved-contextual
+scalloped collar,cuello festoneado,Collar/V collar scalloped,Decision contextual basada en evidencia visual: borde con lobulos/ondas redondeadas repetidas. No crear regla global para scalloped sin revisar contexto.,approved-contextual
+sleeve,manga,Content/prendas,Regla global para la familia Sleeve: usar orden natural Manga + descriptor.,approved
+bishop sleeve,manga obispo,Content/prendas,Bishop es descriptivo en mangas; no confundir con Bishop como nombre estilizado en accesorios.,approved
+bracelet sleeve,manga brazalete,Content/prendas,Decisión visual aprobada para Bracelet Sleeve.,approved
