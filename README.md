@@ -10,11 +10,11 @@ El proyecto incluye traducciones finales para:
 
 | Tabla | Estado |
 | --- | ---: |
-| UI | 208/208 |
-| Tutorial | 71/71 |
-| Content | 1930/1930 |
+| UI | 221/221 |
+| Tutorial | 73/73 |
+| Content | 1941/1941 |
 | Dialogue | 3677/3677 |
-| Total | 5886/5886 |
+| Total | 5912/5912 |
 
 ### Enfoque de traducción
 
@@ -45,7 +45,7 @@ El plugin registra el locale `es-419`, carga las String Tables desde CSV externo
    ```
 
 3. Inicia Dressmaker desde Steam.
-4. Selecciona español en las opciones del juego.
+4. Selecciona `Español (Latinoamérica)` en las opciones del juego.
 
 ### Desinstalación
 
@@ -78,7 +78,7 @@ Al reportar un problema, incluye:
 
 ### Estado actual
 
-QA final en curso. La traducción completa está cerrada y validada; el build QA actual incluye correcciones de texto de QA y fallback de Asset Tables a los assets ingleses.
+Versión pública actual: `v1.0.1`. La traducción completa está cerrada y validada; el build incluye correcciones de QA y fallback de Asset Tables a los assets ingleses.
 
 ### Licencias y atribución
 
@@ -98,11 +98,11 @@ Current translation status:
 
 | Table | Status |
 | --- | ---: |
-| UI | 208/208 |
-| Tutorial | 71/71 |
-| Content | 1930/1930 |
+| UI | 221/221 |
+| Tutorial | 73/73 |
+| Content | 1941/1941 |
 | Dialogue | 3677/3677 |
-| Total | 5886/5886 |
+| Total | 5912/5912 |
 
 ### Translation approach
 
@@ -133,7 +133,7 @@ The plugin registers the `es-419` locale, loads String Tables from external CSV 
    ```
 
 3. Launch Dressmaker from Steam.
-4. Select Spanish in the game options.
+4. Select `Español (Latinoamérica)` in the game options.
 
 ### Uninstall
 
@@ -161,7 +161,7 @@ Please include a screenshot or clear description, where it happened, the observe
 
 ### Current status
 
-Final QA is in progress. The full translation is complete and validated; the current QA build includes QA text fixes and Asset Table fallback to English assets.
+Current public version: `v1.0.1`. The full translation is complete and validated; the build includes QA text fixes and Asset Table fallback to English assets.
 
 ### License and attribution
 

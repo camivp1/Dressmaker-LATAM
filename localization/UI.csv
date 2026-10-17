@@ -1,210 +1,223 @@
-"ID","Español"
-"56515267379200","Idioma"
-"57261832519680","Menú de pausa"
-"57457941397504","Resolución"
-"57599092310016","Modo de ventana"
-"57808056729600","Límite de FPS"
-"57990961938432","Volumen general"
-"58147069739008","Volumen de música"
-"58413693255680","Asistencia de costura"
-"59082277896192","Exportar partida"
-"59312473882624","Restablecer"
-"59489318322176","Guardar y salir"
-"60170456514560","Continuar"
-"60351176491008","Esto restablecerá todo el progreso del juego. ¿Seguro que quieres continuar?"
-"60756480475136","Sí"
-"60850588073984","No"
-"61345981513728","Advertencia"
-"63224492834816","Pantalla completa"
-"63314078973952","Modo ventana"
-"63395037429760","Sin límite"
-"63786500210688","Continuar"
-"63911557578752","Nueva partida"
-"64047448834048","Importar partida"
-"64301694959616","Opciones"
-"64481425080320","Discord"
-"64704905986048","Salir"
-"1457183857295360","Calidad: {0}"
-"1457183857295361","Calidad: como máximo {0}"
-"1457183857295362","Calidad"
-"1457183857295363","{0}: {1}"
-"1457183857295364","{0}: como máximo {1}"
-"1457183857295365","{0}: al menos {1}"
-"1457183857295366","Usar solo: {0:list:{}|, }"
-"1457183857295367","{0}: al menos {1}%"
-"1457183857295368","{0}: al menos {1}%"
-"1457183857295369","Usar solo: {0:list:{}|, }"
-"1457183857295370","Evitar: {0:list:{}|, }"
-"1457183857295371","Usar {0}"
-"1457183857295372","Accesorios diferentes: al menos {0}"
-"1457183857295373","Accesorios diferentes"
-"1457183857295374","Colores diferentes: al menos {0}"
-"1457183857295375","Colores diferentes"
-"1457183857295376","Telas diferentes: al menos {0}"
-"1457183857295377","Telas diferentes"
-"1457183857295378","Presupuesto: <sprite=0>{0}"
-"1490732912197632","De: {0}"
-"1457183857295381","Se necesitan aprox. <b>{0:F2} m</b> de tela"
-"1457183857295382","Trazar el patrón"
-"1457183857295383","Reiniciar vestido"
-"1457183857295384","Deshacer patrón"
-"1457183857295385","{0} {1}"
-"1457183857295386","Visor: activado"
-"1457183857295387","Visor: desactivado"
-"1457183857295388","Ambiente ({0}/{1})"
-"1457183857295389","Color de luz ({0}/{1})"
-"1457183857295390","Vender vestido"
-"1457183857295391","{0:0.00} m/{1:0.00} m"
-"1457183857295392","Descartar {0:0.00} m usados"
-"1457183857295393","{0} ({1:0.0} m)"
-"1457183857295394","Prestigio: {0}"
-"1511834837303296","Tela"
-"1512078975156224","Accesorios"
-"1527030930718720","Busto"
-"1527207896793088","Cintura"
-"1527384288247808","Caderas"
-"1528231147585536","Patrones"
-"1530969189236736","Confirmar"
-"2529703406583808","Comprar (<sprite=0> {0})"
-"2530736497213440","metros"
-"2543357405413376","Desconocido"
-"2543357413801984","Principiante"
-"2543357413801985","Aprendiz"
-"2543357413801986","Oficial"
-"2543357417996288","Respetada"
-"2543357417996289","Profesional"
-"2543357417996290","Reconocida"
-"2543357417996291","Venerada"
-"2543357417996292","Ilustre"
-"2543357417996293","Maestra"
-"2543357417996294","I"
-"2543357417996295","II"
-"2543357417996296","III"
-"2543357417996297","IV"
-"2543357417996298","V"
-"2543897896009728","Rango {0}"
-"2584723208519680","Medidas: "
-"2586188744474624","Amistades"
-"2586385432166400","Historial de vestidos"
-"2587343767715840","Vestidos listos para vender"
-"2587643274575872","Seleccionar destinataria de la tarjeta de visita"
-"2587910544015360","Modista"
-"2591087179841536","Tomar foto"
-"2591282202394624","Vista previa de foto"
-"2591432987623424","Guardar"
-"2591531004313600","Volver a tomar foto"
-"2591788744294400","Exportar"
-"2591889952849920","Importar"
-"2592062410047488","Luz"
-"2607174831292416","Crear vestido nuevo"
-"2607582077239296","Modo foto"
-"3260373657436160","¡Vestido terminado!"
-"3260524593659904","Completar encargo"
-"3260698409811968","Seguir trabajando"
-"3260824008245248","Regalar vestido"
-"3262245260738560","{0:list:{}|/}"
-"3262245264932864","Frente"
-"3262245264932865","Espalda"
-"3262245264932866","Izquierda"
-"3262245264932867","Derecha"
-"3262245264932868","Puño izquierdo"
-"3262245264932869","Puño derecho"
-"3264116717240320","Diagonal"
-"3264116717240321","Sin sesgo"
-"3264116717240322","Recto"
-"3264116717240323","Transversal"
-"3265013887254528","Esto restablecerá todo tu progreso en el vestido actual. ¿Seguro que quieres continuar?"
-"6234992911826944","Vender"
-"7664109842579456","Seleccionar destinataria del regalo"
-"8034903128223744","¡Tu amistad inspiró nuevos patrones de vestido!"
-"8035105532751872","Agregar al cuaderno de bocetos"
-"8380487495041024","{0} (máx.)"
-"8721052745056256","Puede que la clienta no quede satisfecha con este vestido. 
+﻿ID,Español
+56515267379200,Idioma
+57261832519680,Menú de pausa
+57457941397504,Resolución
+57599092310016,Modo de ventana
+57808056729600,Límite de FPS
+57990961938432,Volumen general
+58147069739008,Volumen de música
+58413693255680,Asistencia de costura
+59082277896192,Exportar partida
+59312473882624,Restablecer
+59489318322176,Guardar y salir
+60170456514560,Continuar
+60351176491008,Esto restablecerá todo el progreso del juego. ¿Seguro que quieres continuar?
+60756480475136,Sí
+60850588073984,No
+61345981513728,Advertencia
+63224492834816,Pantalla completa
+63314078973952,Modo ventana
+63395037429760,Sin límite
+63786500210688,Continuar
+63911557578752,Nueva partida
+64047448834048,Importar partida
+64301694959616,Opciones
+64481425080320,Discord
+64704905986048,Salir
+1457183857295360,Calidad: {0}
+1457183857295361,Calidad: como máximo {0}
+1457183857295362,Calidad
+1457183857295363,{0}: {1}
+1457183857295364,{0}: como máximo {1}
+1457183857295365,{0}: al menos {1}
+1457183857295366,"Usar solo: {0:list:{}|, }"
+1457183857295367,{0}: al menos {1}%
+1457183857295368,{0}: al menos {1}%
+1457183857295369,"Usar solo: {0:list:{}|, }"
+1457183857295370,"Evitar: {0:list:{}|, }"
+1457183857295371,Usar {0}
+1457183857295372,Accesorios diferentes: al menos {0}
+1457183857295373,Accesorios diferentes
+1457183857295374,Colores diferentes: al menos {0}
+1457183857295375,Colores diferentes
+1457183857295376,Telas diferentes: al menos {0}
+1457183857295377,Telas diferentes
+1457183857295378,Presupuesto: <sprite=0>{0}
+1490732912197632,De: {0}
+1457183857295381,Se necesitan aprox. <b>{0:F2} m</b> de tela
+1457183857295382,Trazar el patrón
+1457183857295383,Reiniciar vestido
+1457183857295384,Deshacer patrón
+1457183857295385,{0} {1}
+1457183857295386,Visor: activado
+1457183857295387,Visor: desactivado
+1457183857295388,Ambiente ({0}/{1})
+1457183857295389,Color de luz ({0}/{1})
+1457183857295390,Vender vestido
+1457183857295391,{0:0.00} m/{1:0.00} m
+1457183857295392,Descartar {0:0.00} m usados
+1457183857295393,{0} ({1:0.0} m)
+1457183857295394,Prestigio: {0}
+1511834837303296,Tela
+1512078975156224,Accesorios
+1527030930718720,Busto
+1527207896793088,Cintura
+1527384288247808,Caderas
+1528231147585536,Patrones
+1530969189236736,Confirmar
+2529703406583808,Comprar (<sprite=0> {0})
+2530736497213440,metros
+2543357405413376,Desconocido
+2543357413801984,Principiante
+2543357413801985,Aprendiz
+2543357413801986,Oficial
+2543357417996288,Respetada
+2543357417996289,Profesional
+2543357417996290,Reconocida
+2543357417996291,Venerada
+2543357417996292,Ilustre
+2543357417996293,Maestra
+2543357417996294,I
+2543357417996295,II
+2543357417996296,III
+2543357417996297,IV
+2543357417996298,V
+2543897896009728,Rango {0}
+2584723208519680,Medidas: 
+2586188744474624,Amistades
+2586385432166400,Historial de vestidos
+2587343767715840,Vestidos listos para vender
+2587643274575872,Seleccionar destinataria de la tarjeta de visita
+2587910544015360,Modista
+2591087179841536,Tomar foto
+2591282202394624,Vista previa de foto
+2591432987623424,Guardar
+2591531004313600,Volver a tomar foto
+2591788744294400,Exportar
+2591889952849920,Importar
+2592062410047488,Luz
+2607174831292416,Crear vestido nuevo
+2607582077239296,Modo foto
+3260373657436160,¡Vestido terminado!
+3260524593659904,Completar encargo
+3260698409811968,Seguir trabajando
+3260824008245248,Regalar vestido
+3262245260738560,{0:list:{}|/}
+3262245264932864,Frente
+3262245264932865,Espalda
+3262245264932866,Izquierda
+3262245264932867,Derecha
+3262245264932868,Puño izquierdo
+3262245264932869,Puño derecho
+3264116717240320,Diagonal
+3264116717240321,Sin sesgo
+3264116717240322,Recto
+3264116717240323,Transversal
+3265013887254528,Esto restablecerá todo tu progreso en el vestido actual. ¿Seguro que quieres continuar?
+6234992911826944,Vender
+7664109842579456,Seleccionar destinataria del regalo
+8034903128223744,¡Tu amistad inspiró nuevos patrones de vestido!
+8035105532751872,Agregar al cuaderno de bocetos
+8380487495041024,{0} (máx.)
+8721052745056256,"Puede que la clienta no quede satisfecha con este vestido. 
 ¿Aun así quieres entregárselo?"
-"9145399993417728","Duplicar"
-"9145446558580736","Aumentar tamaño"
-"9145484965822464","Reducir tamaño"
-"9145534894817280","Girar en sentido horario"
-"9145580700811264","Girar en sentido antihorario"
-"9145629308600320","Girar a la izquierda"
-"9145683658391552","Girar a la derecha"
-"9145718605332480","Girar hacia arriba"
-"9145767330562048","Girar hacia abajo"
-"14179857377247232","Requisitos"
-"14180317697916928","Etiquetas"
-"14181151831736320","Tipo de tela"
-"14181289228746752","Color"
-"14181601230438400","Aplicar"
-"14181772144132096","Restablecer"
-"15632830502518784","Agrupación rápida de accesorios"
-"17807999874613248","¡Costura completada!"
-"17808201603858432","Puedes agregar accesorios o hacer clic abajo cuando el vestido esté terminado."
-"17808389433180160","Terminar vestido"
-"17808901633196032","Cancelar"
-"18486695473393664","Estilo personal:"
-"20347409073684480","Usar {1} cm de {0}"
-"20347409077878784","Calidad del sentido del hilo: {0:##0}%"
-"20347409077878785","Todo"
-"20347409077878786","¡Patrones cortados agregados al inventario!"
-"20347409077878787","Duplicar"
-"20347409077878788","Aumentar tamaño"
-"20347409077878789","Reducir tamaño"
-"20347409077878790","Girar en sentido horario"
-"20347409077878791","Girar en sentido antihorario"
-"20347409077878792","Girar a la izquierda"
-"20347409077878793","Girar a la derecha"
-"20347409077878794","Girar hacia arriba"
-"20347409077878795","Girar hacia abajo"
-"20347409077878796","Subir"
-"20347409077878797","Bajar"
-"20347409077878798","Restablecer posición"
-"20347409077878799","Subir ribete"
-"20347409077878800","Bajar ribete"
-"20347409077878801","Inclinar hacia arriba"
-"20347409077878802","Inclinar hacia abajo"
-"20347409077878803","Quitar objeto"
-"20371692558729216","Tipo"
-"20737358323236864","Gran maestra"
-"21752065242939392","Jugar"
-"21792381824122880","¿Seguro que quieres eliminar esta partida guardada?"
-"21792900311400448","Seleccionar espacio de guardado"
-"21835370597658624","Cuerpo"
-"21835503456432128","Maniquí"
-"21835598134456320","Precisión del maniquí:"
-"23192482698215424","<fadeloop>¡Agrega muestras de tela al cuaderno de bocetos para ver una vista previa de las etiquetas!</fadeloop>"
-"23549468417703936","Borrar"
-"23557968640327680","Sentido del hilo"
-"25789442556112896","¡Gracias por jugar!"
-"25880644546670592","Equipo de Dressmaker"
-"25880787907981312","Música"
-"25880899111563264","Guion"
-"25881016178782208","Arte principal de la tienda"
-"25881198043803648","Pasante"
-"25881301961879552","Pruebas"
-"25881377253830656","Testers de la comunidad"
-"25881593801551872","Música de créditos"
-"25881688156614656","Localización"
-"26093219418943488","PM global"
-"26094418876641280","Chino simplificado"
-"26094527278428160","Equipo de traducción"
-"26094727900377088","Equipo de corrección"
-"26094897178292224","Página de Steam (chino)"
-"26095266151215104","QA de localización"
-"26095378562756608","Agradecimientos especiales"
-"26095496452059136","Japonés"
-"26095568384372736","PM de localización"
-"26095889013747712","�Pebbles� de Sunna Wehrmeijer (licenciada por The Audio Network)"
-"26103271781511168","Licencias de código abierto"
-"26167929044189184","Cargar medidas"
-"28315391036997632","Descartar tela"
-"28655626343362560","Gerente de operaciones"
-"28656185062404096","Directora general"
-"28656520996794368","Coordinadora de marketing"
-"28656726693851136","Fundadora"
-"30876985113690112","¡No tienes suficiente <sprite=0>!"
-"31895658209198080","Materiales"
-"31895658225975296","Mano de obra"
-"31895658225975297","Bono de calidad (%)"
-"31895658225975298","Bono de prestigio (%)"
-"31895658225975299","Precio de venta"
-"33363113980968960","Control de rotación de accesorios"
+9145399993417728,Duplicar
+9145446558580736,Aumentar tamaño
+9145484965822464,Reducir tamaño
+9145534894817280,Girar en sentido horario
+9145580700811264,Girar en sentido antihorario
+9145629308600320,Girar a la izquierda
+9145683658391552,Girar a la derecha
+9145718605332480,Girar hacia arriba
+9145767330562048,Girar hacia abajo
+14179857377247232,Requisitos
+14180317697916928,Etiquetas
+14181151831736320,Tipo de tela
+14181289228746752,Color
+14181601230438400,Aplicar
+14181772144132096,Restablecer
+15632830502518784,Agrupación rápida de accesorios
+17807999874613248,¡Costura completada!
+17808201603858432,Puedes agregar accesorios o hacer clic abajo cuando el vestido esté terminado.
+17808389433180160,Terminar vestido
+17808901633196032,Cancelar
+18486695473393664,Estilo personal:
+20347409073684480,Usar {1} cm de {0}
+20347409077878784,Calidad del sentido del hilo: {0:##0}%
+20347409077878785,Todo
+20347409077878786,¡Patrones cortados agregados al inventario!
+20347409077878787,Duplicar
+20347409077878788,Aumentar tamaño
+20347409077878789,Reducir tamaño
+20347409077878790,Girar en sentido horario
+20347409077878791,Girar en sentido antihorario
+20347409077878792,Girar a la izquierda
+20347409077878793,Girar a la derecha
+20347409077878794,Girar hacia arriba
+20347409077878795,Girar hacia abajo
+20347409077878796,Subir
+20347409077878797,Bajar
+20347409077878798,Restablecer posición
+20347409077878799,Subir ribete
+20347409077878800,Bajar ribete
+20347409077878801,Inclinar hacia arriba
+20347409077878802,Inclinar hacia abajo
+20347409077878803,Quitar objeto
+20371692558729216,Tipo
+20737358323236864,Gran maestra
+21752065242939392,Jugar
+21792381824122880,¿Seguro que quieres eliminar esta partida guardada?
+21792900311400448,Seleccionar espacio de guardado
+21835370597658624,Cuerpo
+21835503456432128,Maniquí
+21835598134456320,Precisión del maniquí:
+23192482698215424,<fadeloop>¡Agrega muestras de tela al cuaderno de bocetos para ver una vista previa de las etiquetas!</fadeloop>
+23549468417703936,Borrar
+23557968640327680,Sentido del hilo
+25789442556112896,¡Gracias por jugar!
+25880644546670592,Equipo de Dressmaker
+25880787907981312,Música
+25880899111563264,Guion
+25881016178782208,Arte principal de la tienda
+25881198043803648,Pasante
+25881301961879552,Pruebas
+25881377253830656,Testers de la comunidad
+25881593801551872,Música de créditos
+25881688156614656,Localización
+26093219418943488,PM global
+26094418876641280,Chino simplificado
+26094527278428160,Equipo de traducción
+26094727900377088,Equipo de corrección
+26094897178292224,Página de Steam (chino)
+26095266151215104,QA de localización
+26095378562756608,Agradecimientos especiales
+26095496452059136,Japonés
+26095568384372736,PM de localización
+26095889013747712,�Pebbles� de Sunna Wehrmeijer (licenciada por The Audio Network)
+26103271781511168,Licencias de código abierto
+26167929044189184,Cargar medidas
+28315391036997632,Descartar tela
+28655626343362560,Gerente de operaciones
+28656185062404096,Directora general
+28656520996794368,Coordinadora de marketing
+28656726693851136,Fundadora
+30876985113690112,¡No tienes suficiente <sprite=0>!
+31895658209198080,Materiales
+31895658225975296,Mano de obra
+31895658225975297,Bono de calidad (%)
+31895658225975298,Bono de prestigio (%)
+31895658225975299,Precio de venta
+33363113980968960,Control de rotación de accesorios
+40957591591829504,Reducir animaciones
+40960308741652480,Contornos
+40960419022487552,Colocación rápida de ribetes
+41330588229251072,Jugabilidad
+41330658513203200,Gráficos
+41330715622846464,Audio
+41337045322510336,Resplandor
+41383281541758976,Este vestido se eliminará permanentemente de tus registros. ¿Quieres continuar?
+41740693060554752,Vender
+42111338724442112,Tijeras
+42111338724442113,Descartar tela
+42111338724442114,Mostrar/ocultar margen de costura
+42111338724442115,Devolver todos los patrones al inventario

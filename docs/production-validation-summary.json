@@ -7,8 +7,8 @@
   ],
   "tables": {
     "UI": {
-      "rows": 208,
-      "translated": 208,
+      "rows": 221,
+      "translated": 221,
       "empty_count": 0,
       "ids_synced_with_extracted": true,
       "keys_synced_with_extracted": true,
@@ -20,8 +20,8 @@
       "utf8_ok": true
     },
     "Tutorial": {
-      "rows": 71,
-      "translated": 71,
+      "rows": 73,
+      "translated": 73,
       "empty_count": 0,
       "ids_synced_with_extracted": true,
       "keys_synced_with_extracted": true,
@@ -33,8 +33,8 @@
       "utf8_ok": true
     },
     "Content": {
-      "rows": 1930,
-      "translated": 1930,
+      "rows": 1941,
+      "translated": 1941,
       "empty_count": 0,
       "ids_synced_with_extracted": true,
       "keys_synced_with_extracted": true,
@@ -60,14 +60,15 @@
     }
   },
   "global": {
-    "total_entries": 5886,
-    "translated_entries": 5886,
+    "total_entries": 5912,
+    "translated_entries": 5912,
     "empty_entries": 0,
-    "high": 5811,
+    "high": 5837,
     "medium": 0,
     "low": 75,
     "human_pending": 0,
     "internal_non_player_facing": 75,
     "validation_issue_count": 0
-  }
+  },
+  "generated_by": "release-v1.0.1-validation"
 }
