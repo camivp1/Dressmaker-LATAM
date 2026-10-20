@@ -78,7 +78,7 @@ Al reportar un problema, incluye:
 
 ### Estado actual
 
-Versión pública actual: `v1.0.1`. La traducción completa está cerrada y validada; el build incluye correcciones de QA y fallback de Asset Tables a los assets ingleses.
+Versión pública actual: `v1.0.2`. La traducción completa está cerrada y validada; el build incluye correcciones de QA y fallback de Asset Tables a los assets ingleses.
 
 ### Licencias y atribución
 
@@ -161,7 +161,7 @@ Please include a screenshot or clear description, where it happened, the observe
 
 ### Current status
 
-Current public version: `v1.0.1`. The full translation is complete and validated; the build includes QA text fixes and Asset Table fallback to English assets.
+Current public version: `v1.0.2`. The full translation is complete and validated; the build includes QA text fixes and Asset Table fallback to English assets.
 
 ### License and attribution
 

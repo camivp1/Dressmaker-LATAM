@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.0.2
+
+- Fixed dialogue truncation caused by unescaped literal colons.
+- Normalized literal colon escaping in player-facing Dialogue strings.
+- Applied selected UI and dialogue wording corrections from QA.
+- Updated the internal plugin version to 0.1.2.
+- Translation totals remain UI 221, Tutorial 73, Content 1941, and Dialogue 3677 (5912 total).
+
 ## v1.0.1
 
 - Updated compatibility with the current Dressmaker runtime tables.

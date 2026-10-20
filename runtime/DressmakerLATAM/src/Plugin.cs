@@ -21,7 +21,7 @@ public sealed class Plugin : BaseUnityPlugin
 {
     internal const string PluginGuid = "com.dressmaker.latam.localization";
     internal const string PluginName = "Dressmaker LATAM";
-    internal const string PluginVersion = "0.1.1";
+    internal const string PluginVersion = "0.1.2";
 
     internal const string LocaleCode = "es-419";
     internal const string LocaleDisplayName = "Español (Latinoamérica)";
